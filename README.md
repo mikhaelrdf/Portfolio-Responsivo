@@ -3,9 +3,11 @@
 <h2>Bem-vindo ao meu portfolio de programação! Este documento tem o objetivo de fornecer uma visão geral do meu trabalho, habilidades, sou novo na area de programação e busco o meu primeira vaga de emprego de progrmação.</h2>
 
 <br></br>
-![Portfólio Web](IMG/Projetoweb.png)
+<img src="IMG/Projetoweb.png" alt="Descrição da Imagem" width="300px">
 
-![Portfólio Mobile](IMG/ProjetoMobile.png)
+
+<img src="IMG/ProjetoMobile" alt="Descrição da Imagem" width="300px">
+
 
 <h2>Sobre Mim<h2>
 
