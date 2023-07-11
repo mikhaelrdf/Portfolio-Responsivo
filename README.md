@@ -3,7 +3,7 @@
 <h2>Bem-vindo ao meu portfolio de programação! Este documento tem o objetivo de fornecer uma visão geral do meu trabalho, habilidades, sou novo na area de programação e busco o meu primeira vaga de emprego de progrmação.</h2>
 
 <br></br>
-![Portfólio Web](IMG/ProjetoWeb.png)
+![Portfólio Web](IMG/Projetoweb.png)
 
 ![Portfólio Mobile](IMG/ProjetoMobile.png)
 
