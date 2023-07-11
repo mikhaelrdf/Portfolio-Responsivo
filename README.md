@@ -4,7 +4,7 @@
 
 <br></br>
 ![Portfólio Web](IMG/Projetoweb.png)
-<br></br>
+
 ![Portfólio Mobile](IMG/ProjetoMobile.png)
 
 <h2>Sobre Mim<h2>
