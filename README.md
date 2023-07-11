@@ -6,7 +6,7 @@
 <img src="IMG/Projetoweb.png" alt="Imagem do Projeto Web" width="300px">
 
 
-<img src="IMG/ProjetoMobile.png" alt="Imagem do Projeto Mobile width="300px">
+<img src="IMG/ProjetoMobile.png" alt="Imagem do Projeto Mobile" width="300px">
 
 
 <h2>Sobre Mim<h2>
