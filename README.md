@@ -1,6 +1,6 @@
 # Portfólio-Responsivo
 
-<h2>Bem-vindo ao meu portfolio de programação! Este documento tem o objetivo de fornecer uma visão geral do meu trabalho, habilidades, sou novo na area de programação e busco o meu primeira vaga de emprego de progrmação.</h2>
+<h2>Bem-vindo ao meu portfolio de programação! Este documento tem o objetivo de fornecer uma visão geral do meu trabalho, habilidades, sou novo na area de programação e busco o meu primeira vaga de emprego de programação.</h2>
 
 <br></br>
 <img src="IMG/Projetoweb.png" alt="Imagem do Projeto Web" width="300px">
